@@ -1,0 +1,13 @@
+**********************************************************************************************
+			reflection 
+Full Name: MOHAMED ASHRAF BHAROT
+Student ID#: 139539225	
+Email: mamabharot@myseneca.ca
+Section: ZEE
+Authenticity Declaration: 
+I declare this submission is the result of my own work and has not been shared with any other student or 3rd party content provider. This submitted piece of work is entirely of my own creation. 
+
+1. Main goal of code formatting is to make code easily understandable, readable, and maintainable to help any software developer to solve errors easily. In my code, I also followed the same concept in my code by providing meaningful variables with their explanation by making comments. I kept blank lines between different logics and loop used, also used white spaces from margin and wrote in structured manner.
+2. To code this workshop without nesting, we would have to re-write functions for every logic. It would also require declaring more variables and giving condition for if-else statement again and again to recheck whether the inserted values match with the required values. 
+3. By using if/elseif statement it allows to assign conditions and its corresponding code  for every value ranging from 1 to 5 which assist in perform something unique for every value because the code will execute only for the condition which is true, whereas using if statement it checks for the first possibility and if its true it executes the code and performs the given task for that condition.
+
