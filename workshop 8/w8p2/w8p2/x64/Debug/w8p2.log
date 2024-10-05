@@ -1,0 +1,5 @@
+﻿  w8p2.c
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop 8\w8p2\w8p2\w8p2.c(161,42): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop 8\w8p2\w8p2\w8p2.c(175,42): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop 8\w8p2\w8p2\x64\Debug\w8p2.exe : fatal error LNK1120: 1 unresolved externals

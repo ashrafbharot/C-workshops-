@@ -1,0 +1,16 @@
+/*/////////////////////////////////////////////////////////////////////////
+						  Workshop - #8 (reflect)
+Full Name  : MOHAMED ASHRAF BHAROT
+Student ID#: 139539225
+Email      : mamabharot@myseneca.ca
+Section    : ZEE
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been 
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+/////////////////////////////////////////////////////////////////////////*/
+
+1. The benefit of helper functions in returning values in two ways i.e., argument or by return is that if the value is supposed to be used once only then it will be much better to pass an argument rather than returning the value. On the other hand, when value is used multiple time then returning the value is much more helpful. This versality allows the functions to be easily integrated into various code structures enhancing their usability. One major drawback of this is that it makes code more complex and increases the difficulty to understand the code. If the returned value is different because of how it is called it could create confusion in using the value and could create problems in debugging the code.
+2. getCatFoodInfo function denotes less than perfect cohesion because it is responsible for two tasks i.e. gathering user input and constructing a CatFoodInfo structure. TO improve it I could separate the function into two parts, one that handles only the input from user and returning it and other for taking the input as arguments and construct the CatFoodInfo structure. DisplayCatFoodData function demonstrates coupling because it relies on CatFoodInfo’s structure and directly accesses its product_price and product_weight. To improve it I could change the function to accept the required values as arguments rather than directly accessing the structure’s fields. 
+3. The advantages of passing the structure to function are it increases its flexibility and useability. It makes code more readable and modular. Grouping the data together in structure it makes easy to pass data to function. By passing structure by pointers than value can make passing the structure more efficient. In displayCatFoodData we could directly pass an argument rather than passing it through pointers to structure. 
