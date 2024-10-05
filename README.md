@@ -1,0 +1,1 @@
+I worked on all the problems and small tasks in this repository as part of my studies. These projects and exercises helped me practice and improve my skills in different areas. Everything here was completed by me, and it's a collection of the work I've done while learning and working through my assignments.
