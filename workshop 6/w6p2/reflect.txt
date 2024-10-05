@@ -1,0 +1,16 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #6
+Full Name  : Mohamed Ashraf Bharot
+Student ID#: 139539225
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+1.	Though there are three types of iteration, and we can make any one of these behave the same way, but we use every different for its specific logic to make code more efficient and understandable. We use do-while and while to iterate when we do not know much time, we need to loop the logic whereas for loop requires initialization, condition and iteration which makes it difficult to use for every logic.  When working with arrays we use for loop as favoured one because it allows to check for each element of the array and execute operations on it. 
+
+2.	I looked out for any syntactic error by myself before compiling the program and after founding the error I corrected it on the spot, and I compiled my program through c compiler which listed out errors and warnings that I missed in the code. Using the line number written in error, I quickly tracked down my mistakes and solved my errors and after that I ran my program with multiple inputs to assure it executes perfectly.
+
+3.	When I get this mistakes in my output, I either open my output file with visual studio or I copy the code from output file to visual studio. Then I match my output file with master output file. I track down my errors with the help of line numbers provided in errors. If the mistake is with input values I restart the submission again but if the error is with code I make changes accordingly in c source file and copy paste the file in matrix again and after compiling run the program.

@@ -1,0 +1,40 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #7 (P2)
+Full Name  :MOHAMED ASHRAF BHAROT
+Student ID#:139539225
+Email      :mamabharot@myseneca.ca
+Section    :ZEE
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+/////////////////////////////////////////////////////////////////////////*/
+
+1. No, I was not successful in coding it in the form of non- repetitive because it is based on the repetitive concept, and it’s printed with the help of for loop. The sections of logic in the game play portion of this workshop (drawing of the ruler, board, player position, etc.) needs to be printed after every move again so it can only be coded with loop as a repetitive logic.
+2. I have used two structures playerInfo and gameIndo which groups various related variables in each like lives, character, treasureCount, positionHistory, moves, pathlength, bombLocations and treasreLocations. By using structures in my program, it organised my data by grouping it accordingly and enhanced the readability and reusability of my code.
+3. The maximum level of nested loop I used in my program is of 3 levels.
+> For level 1, I used multiple do-while loops for the validation of user input. For example, player configuration, game configuration, bomb and treasure placement, and moves validation. 
+> do
+{
+}while();
+> For level 2, I used additional if-else statements nested inside do-while to validate the lives, path length, moves, bomb locations, treasure locations, item position.
+do{
+if()
+{
+}
+}while();
+> For level 3, I used additional nested loops and conditional statements inside do-while and if-else constructs to validate and iterate path positions, game state.
+do{
+for(){
+if()
+{
+}
+else
+{
+}
+}
+}while;
+
+
+
