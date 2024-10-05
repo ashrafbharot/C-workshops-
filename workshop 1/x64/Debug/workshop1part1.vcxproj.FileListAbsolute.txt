@@ -1,0 +1,2 @@
+G:\COMPUTER PROGRAMMING\C programming\workshops\workshop1part1\x64\Debug\workshop1part1.exe
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop1part1\x64\Debug\workshop1part1.exe

@@ -1,0 +1,4 @@
+﻿  w2p1.c
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop2\w2p1\w2p1.c(49,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop2\w2p1\w2p1.c(50,33): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+  w2p1.vcxproj -> G:\COMPUTER PROGRAMMING\IPC 144\workshops\workshop2\w2p1\x64\Debug\w2p1.exe

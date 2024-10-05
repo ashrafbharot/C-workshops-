@@ -1,0 +1,44 @@
+1. printf("--------------------+-------------+-------+\n");
+       printf("  |     Coffee      |  Packaged   | With  |\n");
+printf("ID|      Type       | Bag Weight  | Cream |\n");
+       printf("--+-----------------+-------------+-------+\n");
+printf(" 1| %d               | %d            | %d    |\n", c_s == 'l' || c_s == 'L' && c_s == 'm' || c_s == 'M' && c_s == 'r' || c_s == 'R', t_ds >= 1 && t_ds <= 4, w_cr == 'y' || w_cr == 'Y');
+printf(" 1| %d               | %d            | %d    |\n", c_s == 'r' || c_s == 'R' && c_s == 'm' || c_s == 'M' && c_s == 'l' || c_s == 'L', t_ds >= 5 && t_ds <= 9, w_cr == 'y' || w_cr == 'Y');
+printf(" 1| %d               | %d            | %d    |\n", c_s == 'm' || c_s == 'M' && c_s == 'l' || c_s == 'L' && c_s == 'r' || c_s == 'R', t_ds >= 10, w_cr == 'n' || w_cr == 'N');
+
+
+A. Three relational expressions are used in this code i.e. ==(equal to), >=(Greater than or equal to), <=(Less than or equal).
+
+B. Two logical operators are used in this code i.e. &&(logical and ), ||(logical or).
+
+2.code used by me:
+	printf("9. Based on product ID, product 3 is unique -> %d\n\n", (Pid_3 != Pid_2) && (Pid_3 != Pid_1));
+
+* De morgan’s Law:
+* printf("9. Based on product ID, product 3 is unique -> %d\n\n", (Pid_3 = !(Pid_1 || Pid_2));
+3.Two ways to organize:
+i.) int mai(void)
+	char c_t1, c_t2, c_t3; // Customer coffee types
+    int b_w1,  b_w2, b_w3;  // Bag weights
+    char s_c1, s_c2, s_c3; // Best served with cream
+
+    // Variables related to customer preferences
+    char c_s; // Coffee strength
+    char w_cr; // With cream
+    int t_ds; // Typical daily servings
+}
+ii.)
+int main(void)
+{
+    // Variables in the order they are used
+    const double GRAMS_IN_LBS = 453.5924;
+    char c_t1, c_t2, c_t3; // Customer coffee types
+    int b_w1,  b_w2, b_w3;  // Bag weights
+    char s_c1, s_c2, s_c3; // Best served with cream
+    char c_s; // Coffee strength
+    char w_cr; // With cream
+    int t_ds; // Typical daily servings
+
+    // Rest of the code...
+}
+
